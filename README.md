@@ -1,5 +1,4 @@
 # Hello There! 👋
-**I'm enriquevido** - I'm a Software Engineering student who is committed to learning new programming skills through self-taught methods. 
 
 🌱 I'm currently practicing algorithms & data structures in C, also i'm learning Python applied to Math.
 
