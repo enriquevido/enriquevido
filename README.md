@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-🌱 I'm currently practicing algorithms & data structures in C, also i'm learning Python applied to Math.
+🌱 I'm currently practicing algorithms & data structures in C, also i'm learning Python applied to Math problems.
 
 # My skills 💻
 
