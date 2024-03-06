@@ -1,3 +1,5 @@
+![GitHub Header](header.png)
+
 # Hello There! 👋
 
 🌱 I'm currently practicing algorithms & data structures in C, also i'm learning Python applied to Math problems.
