@@ -2,7 +2,7 @@
 
 # Hello There! 👋
 
-🌱 I'm currently practicing algorithms & data structures in C, also i'm learning Python applied to Math problems.
+🌱 I'm currently practicing algorithms and data structures and also developing my JavaScript skills.
 
 # My skills 💻
 
