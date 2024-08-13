@@ -2,7 +2,7 @@
 
 # Hello There! 👋
 
-🌱 I'm currently practicing algorithms and data structures and also developing my JavaScript skills.
+🌱 I'm currently practicing algorithms and data structures and also developing my JS skills.
 
 # My skills 💻
 
