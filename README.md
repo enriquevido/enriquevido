@@ -6,7 +6,7 @@
 
 # My skills 💻
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,py,git)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,git,figma)](https://skillicons.dev)<br/>
 
 # Github Stats ⚡
   
