@@ -22,3 +22,26 @@
     <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,fastapi,java,mysql,postgres,docker,git,postman,figma" />
   </a>
 </p>
+
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enriquevido&theme=algolia"
+        alt="Profile Details"
+        width="100%"
+      />
+    </td>
+    <td width="40%" align="center">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enriquevido&theme=algolia"
+        alt="GitHub Stats"
+        width="80%"
+      />
+    </td>
+  </tr>
+</table>
+
+## 📬 You can reach me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/enrique-vido)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enriquevido23@gmail.com)
