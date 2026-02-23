@@ -25,7 +25,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" align="center">
+    <td width="65%" align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enriquevido&theme=algolia"
         alt="Profile Details"
@@ -36,7 +36,7 @@
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enriquevido&theme=algolia"
         alt="GitHub Stats"
-        width="80%"
+        width="100%"
       />
     </td>
   </tr>
