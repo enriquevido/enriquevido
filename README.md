@@ -1,1 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&duration=3000&pause=1000&color=0A84FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hi+There!+I%C2%B4m+Enrique+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always+learning+new+things+%F0%9F%A7%A0;Enjoying+life%2C+one+commit+at+a+time+)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=900&duration=3000&pause=1000&color=0A84FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hi+There!+I%C2%B4m+Enrique+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always+learning+new+things+%F0%9F%A7%A0;Enjoying+life%2C+one+commit+at+a+time+" alt="Typing SVG" />
+  </a>
+</p>
