@@ -25,14 +25,14 @@
 
 <table width="100%">
   <tr>
-    <td width="60%">
+    <td width="60%" align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enriquevido&theme=algolia"
         alt="Profile Details"
         width="100%"
       />
     </td>
-    <td width="40%" align="center">
+    <td width="45%" align="center">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enriquevido&theme=algolia"
         alt="GitHub Stats"
@@ -42,6 +42,6 @@
   </tr>
 </table>
 
-## 📬 You can reach me
+## 💬 Get in touch
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/enrique-vido)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enriquevido23@gmail.com)
