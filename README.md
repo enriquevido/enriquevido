@@ -7,7 +7,7 @@
 - 🇲🇽 Mexican
 - 💻 I'm constantly seeking out new technologies and learning about them to become a Fullstack Developer.
 - 🏀 A sports enthusiast who appreciates the discipline, resilience, and collaborative mindset that athletics inspire.
-- 🎵 Music is a constant presence in my life — there’s almost always a soundtrack shaping my day.
+- 🎵 Music is a constant presence in my life, there’s almost always a soundtrack shaping my day.
   
 ## 🌱 I'm currently
 - ⚙️ Strengthening my backend skills with Java and Spring Boot, building scalable and well-structured applications.
