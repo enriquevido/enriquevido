@@ -1,16 +1,1 @@
-![GitHub Header](header.png)
-
-# Hello There! 👋
-
-🌱 I'm currently practicing algorithms and data structures and also developing my skills learning React.
-
-# My skills 💻
-
-[![SkillIcons](https://skillicons.dev/icons?i=js,git,figma)](https://skillicons.dev)<br/>
-
-# Github Stats ⚡
-    
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enriquevido&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&duration=3000&pause=1000&color=0A84FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hi+There!+I%C2%B4m+Enrique+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always+learning+new+things+%F0%9F%A7%A0;Enjoying+life%2C+one+commit+at+a+time+)](https://git.io/typing-svg)
