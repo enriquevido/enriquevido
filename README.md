@@ -41,5 +41,5 @@
 </table>
 
 ## 💬 Get in touch
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/enrique-vido)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enrique-vido)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enriquevido23@gmail.com)
