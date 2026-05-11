@@ -25,14 +25,14 @@
   <tr>
     <td width="65%" align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enriquevido&theme=algolia"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enriquevido&theme=transparent"
         alt="Profile Details"
         width="100%"
       />
     </td>
     <td width="45%" align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enriquevido&theme=algolia"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enriquevido&theme=transparent"
         alt="GitHub Stats"
         width="100%"
       />
