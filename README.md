@@ -3,36 +3,37 @@
 </p>
 
 ## 🧑🏻‍💻 About me
-- 🗓️ 21 Years
+- 🗓️ 22 Years
 - 🇲🇽 Mexican
 - 💻 I'm constantly seeking out new technologies and learning about them to become a Fullstack Developer.
 - 🏀 A sports enthusiast who appreciates the discipline, resilience, and collaborative mindset that athletics inspire.
 - 🎵 Music is a constant presence in my life, there’s almost always a soundtrack shaping my day.
   
 ## 🌱 I'm currently
-- ⚙️ Strengthening my backend skills with Java and Spring Boot, building scalable and well-structured applications.
+- ⚙️ Currently learning NestJS and GraphQL to level up my backend architecture skills.
+- 🍃 Exploring MongoDB and NoSQL data modeling to complement my SQL background.
 - ☁️ Learning AWS fundamentals and cloud architecture concepts for production-ready systems.
 - 🤝 Open to internship opportunities and collaborations where I can contribute and continue growing within STEM-driven teams.
 
 ## 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,fastapi,java,mysql,postgres,docker,git,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,graphql,py,fastapi,mysql,postgres,aws,docker,git,postman" />
   </a>
 </p>
 
 <table width="100%">
   <tr>
-    <td width="65%" align="center">
+    <td width="50%" align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enriquevido&theme=transparent"
+        src="https://gh-stats.com/api/enriquevido?theme=dark&widgets=impact"
         alt="Profile Details"
         width="100%"
       />
     </td>
-    <td width="45%" align="center">
+    <td width="50%" align="center">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enriquevido&theme=transparent"
+        src="https://gh-stats.com/api/enriquevido?theme=dark&widgets=languages&hide=Java%2CJupyter+Notebook&grade.max_tags=1"
         alt="GitHub Stats"
         width="100%"
       />
